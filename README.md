@@ -13,8 +13,7 @@
 
 **Play it in the browser: https://n64hub.com/star-fox-64/**, with your own dump of Star Fox 64 (US
 1.1, Rev A), picked in the launcher and kept in the browser. It needs WebGPU (Chrome or Edge 113 and up, or Firefox).
-The page is built from this branch and published with N64Recomp-browser's `tools/publish_page.sh`, so it can be a
-commit or two behind.
+The page is built from this branch, so it can be a commit or two behind.
 
 ## What this fork changes
 
